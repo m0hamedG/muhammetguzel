@@ -1,4 +1,4 @@
-<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://user-images.githubusercontent.com/79118602/123110598-3e9a6780-d40a-11eb-985e-5e95589b472a.png"><br>
+<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://miro.medium.com/max/1076/1*57__j14aNQfmPZyFoS1yRg.png"><br>
 
 <!-- <img src="./devops.gif" alt="react-native" width="25%" height="40%" align="right">
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammetguzel&show_icons=true&theme=onedark)<br>
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammetguzel/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/fatihtepe)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://fatihtepe.medium.com/)<br>
 <!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
