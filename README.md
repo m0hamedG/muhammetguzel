@@ -35,7 +35,3 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=muhammetguzel&column=9&theme=gruvbox&no-frame=true"/>
 
-
-icon.svg" alt="sqlite" width="40" height="40"/> </a>-->
-
-
